@@ -10,13 +10,13 @@ body {
 
 }
 #head{
-    /**color: #ececde;*/
+    color: #ececde;
     
 }
 .container{
     height:70vh;
     display: flex;
-    color: #ececde;
+   
     
     justify-content:center ;
     align-items: center;
