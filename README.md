@@ -19,8 +19,4 @@ No installation is requisite for the Tic Tac Toe game, as it is primarily a clie
 - Integrate sound effects for moves, victories, and other game events to enhance the overall experience.
 
 
-## Author
-- Pooja Chaudhary
-- poojaa15000@gmail.com
 
----
